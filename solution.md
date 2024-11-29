@@ -66,6 +66,7 @@ En examinant la configuration matérielle fournie, voici les points pouvant expl
 ---
 
 #### **4. Plan d’action**
+
 1. **Étape 1 : Diagnostic initial**  
    - Vérifier les versions d’Android Studio, Java, et HAXM.  
    - Identifier les tâches en arrière-plan via le *Task Manager*.  
