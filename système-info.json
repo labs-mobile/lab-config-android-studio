@@ -1,0 +1,27 @@
+{
+    "system": {
+        "hostname": "DESKTOP-5LM31EN",
+        "os": {
+            "name": "Microsoft Windows 11 Professionnel",
+            "version": "10.0.22631",
+            "manufacturer": "Microsoft Corporation"
+        },
+        "hardware": {
+            "manufacturer": "Dell Inc.",
+            "model": "Latitude 7490",
+            "processor": {
+                "name": "Intel64 Family 6 Model 142 Stepping 10 GenuineIntel",
+                "speed": "1910 MHz"
+            },
+            "memory": {
+                "total": "8071 Mo"
+            },
+            "network": [
+                {
+                    "name": "Ethernet",
+                    "status": "Support déconnecté"
+                }
+            ]
+        }
+    }
+}
